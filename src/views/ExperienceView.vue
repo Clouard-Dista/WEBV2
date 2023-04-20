@@ -1,12 +1,12 @@
 <template>
-  <div class="about">
-    <h1>This is an about page</h1>
+  <div class="Experience">
+    <h1>This is an Experience page</h1>
   </div>
 </template>
 
 <style>
 @media (min-width: 1024px) {
-  .about {
+  .Experience {
     min-height: 100vh;
     display: flex;
     align-items: center;
