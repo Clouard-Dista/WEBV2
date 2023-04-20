@@ -1,6 +1,6 @@
 <script setup lang="ts">
 import { RouterLink, RouterView } from 'vue-router'
-import HelloWorld from './components/HelloWorld.vue'
+import Skill from './components/Skill.vue'
 </script>
 
 <template>
@@ -9,5 +9,6 @@ import HelloWorld from './components/HelloWorld.vue'
     Hello world!
   </h1>
 
+  <Skill msg="LOL!" />
   <RouterView />
 </template>
