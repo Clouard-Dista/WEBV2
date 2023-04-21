@@ -1,6 +1,8 @@
 <script setup lang="ts">
 defineProps<{
-  msg: string
+  name:string;
+  level:number;
+  ico:string;
 }>()
 </script>
 

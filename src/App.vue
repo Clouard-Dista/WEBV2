@@ -1,6 +1,8 @@
 <script setup lang="ts">
 import { RouterLink, RouterView } from 'vue-router'
-import Skill from './components/Skill.vue'
+import SkillCompo from './components/Skill.vue'
+import Skill from './object/Skill';
+let s = new Skill("eee");
 </script>
 
 <template>
@@ -9,9 +11,9 @@ import Skill from './components/Skill.vue'
     Hello world!
   </h1>
 
-  <Skill msg="LOL test!" />
+  <SkillCompo v-for="item in 15" name="" level={{ 1 }} ico="" />
   
-  <nav :class="showMenu ? 'flex' : 'hidden'"
+  <nav 
       class="
         flex-col
         mt-8
