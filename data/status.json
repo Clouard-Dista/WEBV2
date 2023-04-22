@@ -1,0 +1,51 @@
+[
+  {
+    "location": "SOAT",
+    "status": "Consultant JS - JAVA",
+    "startDate": "01/09/2019",
+    "endDate": "01/01/3000",
+    "detail": ""
+  },
+  {
+    "location": "AIR LIQUIDE MEDICAL SYSTEMS",
+    "status": "En mission back/full-stack JS",
+    "startDate": "01/02/2020",
+    "endDate": "01/01/3000",
+    "detail": ""
+  },
+  {
+    "location": "SOPRA STERIA",
+    "status": "Développeur JAVA - JS",
+    "startDate": "01/02/2018",
+    "endDate": "01/08/2019",
+    "detail": ""
+  },
+  {
+    "location": "Affluences",
+    "status": "Développeur fullstack",
+    "startDate": "01/01/2017",
+    "endDate": "01/08/2017",
+    "detail": ""
+  },
+  {
+    "location": "ESGI",
+    "status": "Etudiant",
+    "startDate": "01/09/2017",
+    "endDate": "01/07/2019",
+    "detail": "Master architecture logiciel"
+  },
+  {
+    "location": "ESGI",
+    "status": "Etudiant",
+    "startDate": "01/09/2014",
+    "endDate": "01/07/2017",
+    "detail": "Bachelor architecture logiciel"
+  },
+  {
+    "location": "ISART",
+    "status": "Etudiant",
+    "startDate": "01/09/2013",
+    "endDate": "01/07/2014",
+    "detail": "game design & programming"
+  }
+]

@@ -1,0 +1,134 @@
+[
+  {
+    "name": "Node.js",
+    "type": "Frameworks",
+    "ico": "node.png",
+    "level": 7
+  },
+  {
+    "name": "jQuery",
+    "type": "Frameworks",
+    "ico": "jquery.png",
+    "level": 5
+  },
+  {
+    "name": "AngularJS",
+    "type": "Frameworks",
+    "ico": "angularjs.png",
+    "level": 5
+  },
+  {
+    "name": "Angular 7",
+    "type": "Frameworks",
+    "ico": "angular.png",
+    "level": 5
+  },
+  {
+    "name": "Angular 2",
+    "type": "Frameworks",
+    "ico": "angular.png",
+    "level": 4
+  },
+  {
+    "name": "OpenGL",
+    "type": "Frameworks",
+    "ico": "opengl.png",
+    "level": 3
+  },
+  {
+    "name": "Angular 6",
+    "type": "Frameworks",
+    "ico": "angular.png",
+    "level": 3
+  },
+  {
+    "name": "Angular 4",
+    "type": "Frameworks",
+    "ico": "angular.png",
+    "level": 3
+  },
+  {
+    "name": "Angular 5",
+    "type": "Frameworks",
+    "ico": "angular.png",
+    "level": 3
+  },
+  {
+    "name": "JavaScript",
+    "type": "Langages",
+    "ico": "javascript.png",
+    "level": 8
+  },
+  {
+    "name": "TypeScript",
+    "type": "Langages",
+    "ico": "typescript.png",
+    "level": 7
+  },
+  {
+    "name": "SQL",
+    "type": "Langages",
+    "ico": "sql.png",
+    "level": 7
+  },
+  {
+    "name": "Java",
+    "type": "Langages",
+    "ico": "java.png",
+    "level": 6
+  },
+  {
+    "name": "C++",
+    "type": "Langages",
+    "ico": "cpp.png",
+    "level": 6
+  },
+  {
+    "name": "PhP",
+    "type": "Langages",
+    "ico": "php.png",
+    "level": 5
+  },
+  {
+    "name": "Python",
+    "type": "Langages",
+    "ico": "python.png",
+    "level": 4
+  },
+  {
+    "name": "C",
+    "type": "Langages",
+    "ico": "c.png",
+    "level": 5
+  },
+  {
+    "name": "Git",
+    "type": "Outils",
+    "ico": "git.png",
+    "level": 6
+  },
+  {
+    "name": "MySql",
+    "type": "Outils",
+    "ico": "mysql.png",
+    "level": 6
+  },
+  {
+    "name": "Ajax",
+    "type": "Outils",
+    "ico": "ajax.png",
+    "level": 5
+  },
+  {
+    "name": "Node-Red",
+    "type": "Outils",
+    "ico": "node.png",
+    "level": 7
+  },
+  {
+    "name": "Elasticsearch",
+    "type": "Outils",
+    "ico": "elasticsearch.png",
+    "level": 5
+  }
+]

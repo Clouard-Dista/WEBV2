@@ -1,0 +1,175 @@
+[
+  {
+    "company": "SOAT",
+    "project": [
+      {
+        "name": "KIKILE",
+        "role": "Développeur front-end",
+        "description": [
+          "Réalisation d’un projet interne ayant pour vocation de faciliter la mémorisation des personnes travaillant au sein de l’entreprise (Application Web) ",
+          "Projet réalisé dans une équipe de 3 personnes"
+        ],
+        "detail": [
+          "Développement front de l'application en Angular 7",
+          "Conception d'une architecture MVC",
+          "Mise en place de tests unitaires avec Angular CLI",
+          "Conception de base de données",
+          "Ajout de fichier de configuration pour simplifier les modifications des paramètres",
+          "Application et création d'une charte graphique",
+          "Mise en place de pratiques agiles"
+        ],
+        "environment": "ANGULAR 7, JAVASCRIPT, TYPESCRIPT, HTML5/CSS3, MATERIAL DESIGN, .NET CORE, WEB API, ENTITY FRAMEWORK, GIT, ANGULAR CLI, SQL, MICROSOFT SQL SERVER, AGILITÉ, SCRUM",
+        "startDate": "01/11/2019",
+        "endDate": "01/12/2019"
+      },
+      {
+        "name": "Booster Camp",
+        "role": "Développeur fullstack / Formation Booster Camp",
+        "description": [
+          "Le Booster Camp est un cursus de formation de 6 semaines dédiés aux développeurs jeunes diplômés à leur entrée chez SOAT. Ma formation est orientée préalablement en fonction de mes souhaits et inclut les pratiques Agile, Craft, Devops et s’appuyant sur les technologies du moment, Cloud et Web notamment. Les Experts de Soat m'accompagnent tout au long de ce programme. Durant ces 6 semaines j’ai notamment réalisé un projet encadré par le CTO: un site web permettant de mettre en contact des associations caritatives avec des entreprises possédant un surplus de nourriture ",
+          "Projet réalisé dans une équipe de 3 personnes"
+        ],
+        "detail": [
+          "Développement des tests unitaires et des tests intégrations",
+          "Mise en place de plusieurs services appelant des API externes",
+          "Développement from scratch d'une application Front-end en ReactJS (création de composants, application d'une charte graphique, connexion avec une API REST)",
+          "Mise en place d'une architecture 3 tiers",
+          "Mise en place de l'API REST avec Jhipster",
+          "Création des services des entités et les controllers",
+          "Mise en place de l’intégration continue avec Github, Travis et SonarCloud"
+        ],
+        "environment": "REACT, REDUX, JAVASCRIPT, JAVA 11, SPRING BOOT, HIBERNATE, JHIPSTER, MAVEN, GIT, JUNIT, MOCKITO, AMAZON WEB SERVICES (AWS), GITHUB,, SONARCLOUD, TRAVISCI, POSTGRESQL, AGILE (SCRUM)",
+        "startDate": "01/09/2019",
+        "endDate": "01/11/2019"
+      }
+    ]
+  },
+  {
+    "company": "STGB",
+    "project": [
+      {
+        "name": "Application de gestion de planning",
+        "role": "Développeur JS",
+        "description": [
+          "Ce projet rentre dans le cadre du projet annuel de 5éme année qui consiste a trouvé un client final dans notre cas la société STGB (Societe De Transports Gemitine Brigitte) et produire une solution a ces problématiques en produisant une application android et une application web, je me suis occupé de celle-ci",
+          "Projet réalisé dans une équipe de 3 personnes"
+        ],
+        "detail": [
+          "Sprint de 3 semaines",
+          "Développement d'une nouvelle application web Angular (Gestion d'événements interne, Génération de rapports lié aux livraisons et tournées des chauffeurs, Gestion des jours de congés des employés, Gestion des horaires des employés)",
+          "Mise en place d'une architecture MVC",
+          "Mise en place de la base de donnés Maria DB",
+          "Mise en place de tests unitaires",
+          "Migration Angular 7 vers Angular 8",
+          "Pair programming / Code Review"
+        ],
+        "environment": "JAVASCRIPT, TYPESCRIPT, ANGULAR 7, JQUERY, MARIADB, AGILE, JASMINE",
+        "startDate": "01/02/2019",
+        "endDate": "01/08/2019"
+      }
+    ]
+  },
+  {
+    "company": "SOPRA STERIA",
+    "project": [
+      {
+        "name": "Chorus-Pro",
+        "role": "Développeur full stack Java - JS",
+        "description": [
+          "Participation au projet Chorus-Pro, le site de paiement de factures de l'Etat",
+          "Projet réalisé dans une équipe de 12 personnes"
+        ],
+        "detail": [
+          "Amélioration de la gestion des structures : refonte du fonctionnement du service grâce à Spring Webflow",
+          "Amélioration des écrans de facturation : gestion des détails de la facture (ligne de facturation, exonération...)",
+          "Pratiques agiles (participation au Daily Scrum Meeting, sprint de 3 semaines, mise à jour des objectifs avec le client toutes les semaines, review)",
+          "Travail collaboratif avec les testeurs et le bureau d'étude",
+          "Mise en place de tests unitaires",
+          "Mise en place de tests d'intégration",
+          "Développement de nouvelles fonctionnalités afin de simplifier l'analyse et le dépôt des factures",
+          "Application de la norme RGAA (facilitation de l'accès pour les personnes malvoyantes) au site web : modifications en JS, CSS et TagX",
+          "Correction des anomalies"
+        ],
+        "environment": "JAVASCRIPT, HTML5/CSS3, JAVA 8, JAVA / JEE, JQUERY, SPRING, INTELLIJ, ECLIPSE, JENKINS, TORTOISE SVN, HP QUALITY CENTER, HP ALM, ORACLE 12C, AGILE (SCRUM)",
+        "startDate": "01/02/2018",
+        "endDate": "01/08/2019"
+      }
+    ]
+  },
+  {
+    "company": "Affluences",
+    "project": [
+      {
+        "name": "Affluences APP",
+        "role": "Développeur JS full stack",
+        "description": [
+          "Affluences est un service numérique permettant de mesurer l'affluence d'un établissement, de la communiquer en temps réel aux visiteurs avec des prévisions quotidiennes sur une application mobile dédiée.",
+          "Projet réalisé dans une équipe de 4 personnes"
+        ],
+        "detail": [
+          "Développement de nouvelles fonctionnalités sur le site client (gestion des horaires, gestion des graphes...) front-end en AngularJS,back-end en NodeJS",
+          "Développement du site internet (comprenant le site client et le site vitrine) se basant sur une nouvelle charte graphique définie",
+          "Développement from scratch du site vitrine back-end en PHP, front-end en HTML/CSS",
+          "Création d'interface en semi temps réel",
+          "Participation aux cérémonies agiles (Daily Scrum Meeting, review...)"
+        ],
+        "environment": "JAVASCRIPT, HTML5/CSS3, PHP, NODE.JS, ANGULARJS, GIT, SUBLIME TEXT, WAMP, AGILE",
+        "startDate": "01/01/2017",
+        "endDate": "01/08/2017"
+      }
+    ]
+  },
+  {
+    "company": "AIR LIQUIDE MEDICAL SYSTEMS",
+    "project": [
+      {
+        "name": "Amidala",
+        "role": "Développeur JS Back",
+        "description": [
+          "description ssssssssssssssssssssssssssssssssss",
+          "Projet réalisé dans une équipe de 8 personnes"
+        ],
+        "detail": [],
+        "environment": "NODE.JS, TYPESCRIPT, NODE-RED, ELASTICSEARCH, KIBANA, POSTGRESQL",
+        "startDate": "01/02/2020",
+        "endDate": ""
+      },
+      {
+        "name": "Jugaal",
+        "role": "Développeur JS Back",
+        "description": [
+          "description ssssssssssssssssssssssssssssssssss",
+          "Projet designer et développer seul"
+        ],
+        "detail": [],
+        "environment": "",
+        "startDate": "01/08/2020",
+        "endDate": ""
+      },
+      {
+        "name": "Diabnext",
+        "role": "Développeur JS Back",
+        "description": [
+          "description ssssssssssssssssssssssssssssssssss",
+          "Projet designer et développer seul"
+        ],
+        "detail": [],
+        "environment": "",
+        "startDate": "01/08/2021",
+        "endDate": ""
+      },
+      {
+        "name": "Sokinox",
+        "role": "Développeur JS full stack",
+        "description": [
+          "C'est une plateforme sur le réseau airliquide qui permet d'uploader graçe a une page web (faite avec node-red dashboard sur une base d'angular) des fichiers de log de certaine machine SoKINOX après ces fichier de log sont océrisé puis validé et envoyé sur un Blob Azure.",
+          "Projet designer et développer seul"
+        ],
+        "detail": [],
+        "environment": "",
+        "startDate": "01/07/2022",
+        "endDate": ""
+      }
+    ]
+  }
+]
