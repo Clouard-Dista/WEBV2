@@ -1,6 +1,17 @@
+<script setup lang="ts">
+import skillList from '../data/skills.json';
+import skillVue from '../components/Skill.vue'
+</script>
+
+name": "Node.js",
+    "type": "Frameworks",
+    "ico": "node.png",
+    "level": 
+
 <template>
-  <div class="Skill">
-    <h1>This is an Skill page</h1>
+        <div class="Skill">
+          <h1>This is an Skill page</h1>
+          <skillVue v-for="item in skillList" :data="item"></skillVue>
   </div>
 </template>
 

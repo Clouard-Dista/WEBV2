@@ -1,19 +1,36 @@
 <script setup lang="ts">
+import type Skill from '../object/Skill';
 defineProps<{
-  name:string;
-  level:number;
-  ico:string;
+  data: Skill
 }>()
+function SkillLevel(level:number){
+  let returnData =""
+  switch (true) {
+    case (level == 0):
+      returnData= "Novice";
+      break;
+    case (level <=3):
+      returnData = "Débutant avancé";
+      break;
+    case (level <=6):
+      returnData = "Compétent";
+      break;
+    case (level < 10):
+      returnData = "Professionnel";
+      break;
+    case (level <= 10):
+      returnData = "Expert";
+      break;
+    default:
+      returnData = "";
+  }
+  return returnData;
+}
 </script>
 
 <template>
   <div class="greetings">
-    <h1 class="green">{{ msg }}</h1>
-    <h3>
-      You’ve successfully created a project with
-      <a href="https://vitejs.dev/" target="_blank" rel="noopener">Vite</a> +
-      <a href="https://vuejs.org/" target="_blank" rel="noopener">Vue 3</a>. What's next?
-    </h3>
+    <p class="green">{{ data.name }} - {{ data.type }} - {{ SkillLevel(data.level) }}</p>
   </div>
 </template>
 
@@ -34,6 +51,7 @@ h3 {
 }
 
 @media (min-width: 1024px) {
+
   .greetings h1,
   .greetings h3 {
     text-align: left;
